@@ -1,0 +1,21 @@
+packages/components/nodes/chatmodels/ChatLitellm/ChatLitellm.ts
+  s_327a10a3f63c36::t_1acf79b345f291 120-121,130-134,136-137
+packages/components/credentials/LitellmApi.credential.ts
+  s_327a10a3f63c36::t_2b3571126c021a 18-31
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.3",
+  "base_commit_sha": "e9e568d88c0b709efbdbbcd88b2df1c8bb8b479c",
+  "prompts": {},
+  "sessions": {
+    "s_327a10a3f63c36": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "d045b33e-6222-44ca-a200-59d9cea7ca2f",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "Raghavendra Reddy <rkota@g2.com>"
+    }
+  }
+}
